@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.js":"javascriptreact"
+    },
+    "deno.enable": false,
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": false
+  }
+}

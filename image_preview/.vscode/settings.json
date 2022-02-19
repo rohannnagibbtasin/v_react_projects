@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.js":"javascriptreact"
+    },
+    "javascript.format.insertSpaceAfterCommaDelimiter": false,
+    "javascript.validate.enable": false
+}
